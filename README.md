@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vai-sys/Data-structures-code/tree/master/0494-target-sum) |
+| [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vai-sys/Data-structures-code/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
