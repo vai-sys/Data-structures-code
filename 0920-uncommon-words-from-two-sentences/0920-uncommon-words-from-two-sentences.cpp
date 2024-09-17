@@ -1,27 +1,39 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        unordered_map<string, int> mp;
-        vector<string> ans;
-
        
-        auto processSentence = [&](const string& sentence) {
-            istringstream iss(sentence);
-            string word;
-            while (iss >> word) {
-                mp[word]++;
+        string s = s1 + " " + s2;
+
+      
+
+        unordered_map<string,int> um;
+        string tmp="";
+        for(auto& val : s){ 
+            if(val == ' '){
+                um[tmp]++;
+                tmp = "";
             }
-        };
+            else{
+                tmp += val; 
+            }
+        }
+        
+       
+        if(tmp != ""){
+            um[tmp]++;
+            tmp = "";
+        }
 
         
-        processSentence(s1);
-        processSentence(s2);
+        vector<string> ans;
+        for(auto& val:um){ 
 
-       
-        for (const auto& pair : mp) {
-            if (pair.second == 1) {
-                ans.push_back(pair.first);
+           
+
+            if(val.second==1){
+                ans.push_back(val.first); 
             }
+
         }
 
         return ans;
