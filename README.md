@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0074-search-a-2d-matrix) |
 | [0494-target-sum](https://github.com/vai-sys/Data-structures-code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
+| [0724-find-pivot-index](https://github.com/vai-sys/Data-structures-code/tree/master/0724-find-pivot-index) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/vai-sys/Data-structures-code/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
