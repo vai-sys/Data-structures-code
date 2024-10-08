@@ -1,20 +1,23 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int balance=0;
+        stack<char>st;
         int swap=0;
-        for(int i=0;i<s.length();i++){
-            if(s[i]=='['){
-                balance++;
+        for(auto c:s){
+           if(c=='['){
+            st.push(c);
+           }
+           else{
+            if(!st.empty()){
+                st.pop();
             }
             else{
-                balance--;
-            }
-
-            if(balance<0){
                 swap++;
-                balance=1;
+               st.push('[');
             }
+           } 
+
+
         }
         return swap;
     }
