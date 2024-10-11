@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/vai-sys/Data-structures-code/tree/master/1002-maximum-width-ramp) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Monotonic Stack
 |  |
 | ------- |
