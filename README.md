@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/vai-sys/Data-structures-code/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/vai-sys/Data-structures-code/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/vai-sys/Data-structures-code/tree/master/1036-rotting-oranges) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/vai-sys/Data-structures-code/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vai-sys/Data-structures-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/vai-sys/Data-structures-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/vai-sys/Data-structures-code/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
