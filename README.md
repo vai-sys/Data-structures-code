@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vai-sys/Data-structures-code/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/vai-sys/Data-structures-code/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/vai-sys/Data-structures-code/tree/master/1036-rotting-oranges) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/vai-sys/Data-structures-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vai-sys/Data-structures-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vai-sys/Data-structures-code/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/vai-sys/Data-structures-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vai-sys/Data-structures-code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vai-sys/Data-structures-code/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/vai-sys/Data-structures-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vai-sys/Data-structures-code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/vai-sys/Data-structures-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Union Find
 |  |
 | ------- |
