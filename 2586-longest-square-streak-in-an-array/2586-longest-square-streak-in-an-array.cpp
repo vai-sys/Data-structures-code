@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longestSquareStreak(std::vector<int>& nums) {
+    int longestSquareStreak(vector<int>& nums) {
         unordered_map<int, int> mp;
         int result = 0;
         sort(nums.begin(), nums.end());
