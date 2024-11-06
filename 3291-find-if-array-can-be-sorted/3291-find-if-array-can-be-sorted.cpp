@@ -1,46 +1,40 @@
-
-
-
-
 class Solution {
 public:
-
-
-int countSetBits(int n) {
-    int count = 0;
-    while (n > 0) {
-        count += n & 1;
-        n >>= 1;
+    int countSetBits(int n) {
+        int count = 0;
+        while (n > 0) {
+            count += n & 1;
+            n >>= 1;
+        }
+        return count;
     }
-    return count;
-}
 
- bool canSortArray(vector<int>& nums) {
-    int n = nums.size();
-    bool swapped;
+    bool canSortArray(vector<int>& nums) {
+        int n = nums.size();
 
+        for (int i = 0; i < n; i++) {
+            bool swapped = false;
+            for (int j = 0; j < n - 1 - i; j++) {
+                int bit1 = countSetBits(nums[j]);
+                int bit2 = countSetBits(nums[j + 1]);
 
-    do {
-        swapped = false;
-        for (int i = 0; i < n - 1; ++i) {
-            int setBits1 = countSetBits(nums[i]);
-            int setBits2 = countSetBits(nums[i + 1]);
-
-           
-            if (setBits1 == setBits2 && nums[i] > nums[i + 1]) {
-                swap(nums[i], nums[i + 1]);
-                swapped = true;
+                if (bit1 == bit2 && nums[j] > nums[j + 1]) {
+                    swap(nums[j], nums[j + 1]);
+                    swapped = true;
+                }
+            }
+            if (!swapped) {
+                break;
             }
         }
-    } while (swapped);
 
-    for (int i = 0; i < n - 1; ++i) {
-        if (nums[i] > nums[i + 1]) {
-            return false;
+      for (int i = 0; i < n - 1; ++i) {
+            if (nums[i] > nums[i + 1]) {
+                return false;
+            }
         }
+
+        return true;  
+
     }
-
-    return true;
-}
-
-};
+    };
