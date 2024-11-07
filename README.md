@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vai-sys/Data-structures-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2586-longest-square-streak-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vai-sys/Data-structures-code/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vai-sys/Data-structures-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vai-sys/Data-structures-code/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
