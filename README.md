@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vai-sys/Data-structures-code/tree/master/0020-valid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vai-sys/Data-structures-code/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vai-sys/Data-structures-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/vai-sys/Data-structures-code/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vai-sys/Data-structures-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
