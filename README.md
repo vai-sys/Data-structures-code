@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vai-sys/Data-structures-code/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vai-sys/Data-structures-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vai-sys/Data-structures-code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vai-sys/Data-structures-code/tree/master/3291-find-if-array-can-be-sorted) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2586-longest-square-streak-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vai-sys/Data-structures-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vai-sys/Data-structures-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vai-sys/Data-structures-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/vai-sys/Data-structures-code/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
