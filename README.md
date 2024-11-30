@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/vai-sys/Data-structures-code/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/vai-sys/Data-structures-code/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/vai-sys/Data-structures-code/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/vai-sys/Data-structures-code/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/vai-sys/Data-structures-code/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vai-sys/Data-structures-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/vai-sys/Data-structures-code/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/vai-sys/Data-structures-code/tree/master/0958-sort-array-by-parity-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vai-sys/Data-structures-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/vai-sys/Data-structures-code/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/vai-sys/Data-structures-code/tree/master/0958-sort-array-by-parity-ii) |
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vai-sys/Data-structures-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
