@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vai-sys/Data-structures-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/vai-sys/Data-structures-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vai-sys/Data-structures-code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vai-sys/Data-structures-code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vai-sys/Data-structures-code/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vai-sys/Data-structures-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vai-sys/Data-structures-code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vai-sys/Data-structures-code/tree/master/0075-sort-colors) |
