@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vai-sys/Data-structures-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2228-watering-plants-ii](https://github.com/vai-sys/Data-structures-code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vai-sys/Data-structures-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/vai-sys/Data-structures-code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vai-sys/Data-structures-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/vai-sys/Data-structures-code/tree/master/2128-reverse-prefix-of-word) |
+| [2228-watering-plants-ii](https://github.com/vai-sys/Data-structures-code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vai-sys/Data-structures-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vai-sys/Data-structures-code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2228-watering-plants-ii](https://github.com/vai-sys/Data-structures-code/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vai-sys/Data-structures-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vai-sys/Data-structures-code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
