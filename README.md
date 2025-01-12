@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/vai-sys/Data-structures-code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/vai-sys/Data-structures-code/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vai-sys/Data-structures-code/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/vai-sys/Data-structures-code/tree/master/0907-koko-eating-bananas) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/vai-sys/Data-structures-code/tree/master/0907-koko-eating-bananas) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vai-sys/Data-structures-code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
