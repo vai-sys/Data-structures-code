@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vai-sys/Data-structures-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/vai-sys/Data-structures-code/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vai-sys/Data-structures-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vai-sys/Data-structures-code/tree/master/1304-longest-happy-string) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vai-sys/Data-structures-code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/vai-sys/Data-structures-code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
