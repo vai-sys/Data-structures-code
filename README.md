@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vai-sys/Data-structures-code/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vai-sys/Data-structures-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vai-sys/Data-structures-code/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vai-sys/Data-structures-code/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/vai-sys/Data-structures-code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/vai-sys/Data-structures-code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vai-sys/Data-structures-code/tree/master/0958-sort-array-by-parity-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vai-sys/Data-structures-code/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vai-sys/Data-structures-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/vai-sys/Data-structures-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vai-sys/Data-structures-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/vai-sys/Data-structures-code/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vai-sys/Data-structures-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vai-sys/Data-structures-code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -285,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/vai-sys/Data-structures-code/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vai-sys/Data-structures-code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
