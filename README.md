@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vai-sys/Data-structures-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vai-sys/Data-structures-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vai-sys/Data-structures-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/vai-sys/Data-structures-code/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vai-sys/Data-structures-code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/vai-sys/Data-structures-code/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/vai-sys/Data-structures-code/tree/master/0506-relative-ranks) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vai-sys/Data-structures-code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/vai-sys/Data-structures-code/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vai-sys/Data-structures-code/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/vai-sys/Data-structures-code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vai-sys/Data-structures-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vai-sys/Data-structures-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vai-sys/Data-structures-code/tree/master/0567-permutation-in-string) |
